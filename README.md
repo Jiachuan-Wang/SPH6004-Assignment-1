@@ -1,11 +1,11 @@
 # SPH6004-Assignment-1
-Risk prediction for acute kidney failure
+Risk prediction for acute kidney injury 
 
 
 [![](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/Jiachuan-Wang/SPH6004-Assignment-1)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiachuan-Wang/SPH6004-Assignment-1)
 
-This is a course assignment for SPH6004 at the National University of Singapore, and the goal is to build machine-learning models to predict acute kidney failure in ICU patients.
+This is a course assignment for SPH6004 at the National University of Singapore, and the goal is to build machine-learning models to predict acute kidney injury (AKI) in ICU patients.
 
 <h2 id="Quickstart Guide"> Quickstart Guide</h2>
 
